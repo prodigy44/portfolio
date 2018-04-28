@@ -1,4 +1,6 @@
-
+h1{
+ font-family: 'Crafty Girls', cursive;
+}
  .navbar {    
    background: black;  
    text-transform: uppercase;
@@ -16,7 +18,7 @@
    color: white;
  }
  .navbar .navbar-nav li a:hover {
-   color: gray;
+   color: #d7ecfd;
  }
  
  .navbar-toggle{
@@ -25,9 +27,9 @@
  }   
 
  header {
-   background: gray;
-   color: white;
+       background-image: url('http://www.vactualpapers.com/wallpapers/paint-splash-hd-wallpaper/download/2560x1600.jpg');
  }   
+ 
  header img {    
    display: block;
    margin: 0 auto 20px;
@@ -95,7 +97,7 @@
  }   
  footer .footer-below {    
    padding: 25px 0;    
-   background-color: black;    
+   background-image: url('http://www.vactualpapers.com/wallpapers/paint-splash-hd-wallpaper/download/2560x1600.jpg');
  }   
      
  .btn-outline {    
@@ -119,4 +121,13 @@
 
  .btn-social i {
     line-height: 45px;
+ }
+
+
+ body {
+ background-image: url('http://www.vactualpapers.com/wallpapers/paint-splash-hd-wallpaper/download/2560x1600.jpg');
+ }
+ 
+ .portfolio-item{
+    float:left;
  }
