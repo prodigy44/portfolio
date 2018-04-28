@@ -75,6 +75,7 @@ h1{
    position: relative;   
    max-width: 400px;   
    margin: 0 0 15px;   
+   float: center;
  }   
  #portfolio .portfolio-item img {    
    width: 100%;    
@@ -131,3 +132,4 @@ h1{
  .portfolio-item{
     float:left;
  }
+ 
