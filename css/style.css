@@ -129,7 +129,9 @@ h1{
  background-image: url('http://www.vactualpapers.com/wallpapers/paint-splash-hd-wallpaper/download/2560x1600.jpg');
  }
  
- .portfolio-item{
+ .pro{
+    display:inline-block;
     float:left;
+    margin-left: 5px;
  }
  
